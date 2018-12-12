@@ -1,2 +1,2 @@
-# snakebypow
+# Snake by Fachri
 snake recreation
